@@ -60,6 +60,7 @@ nav a:hover {
 main {
   background-color: white;
   padding: 20px;
+  border-style: dotted;
   border-radius: 10px;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   margin: 20px auto;
@@ -73,6 +74,11 @@ main h2 {
 }
 
 main p {
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+main ol {
   font-size: 1rem;
   margin-bottom: 15px;
 }
